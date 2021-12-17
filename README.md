@@ -2,6 +2,6 @@
 
 <div align="center">
   <a href="https://github.com/lcs13761">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcs13761i&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcs13761&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs13761&layout=compact&langs_count=7&theme=dracula"/>
 </div>
